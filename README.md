@@ -40,9 +40,21 @@ La banda se presentó oficialmente con su demo "de la nada a la nada" el 3 de ag
 
 ## Enlaces y Recursos
 
-- [Jugar De la nada a la nada](enlace_al_juego)
-- [Página oficial de Eleusinian Mysteries](enlace_a_la_pagina_de_la_banda)
+- [Descargar De la nada a la nada](https://www.mediafire.com/file/jozsepy5x0cou36/Delanadaalanada.rar/file)
+- [Escuchar el álbum "de la nada a la nada"](https://eleusinianmysteries.bandcamp.com/album/de-la-nada-a-la-nada)
+- [Canal de YouTube de Eleusinian Mysteries](https://www.youtube.com/@EleusinianMysteries-td7pg)
 - [Documentación de Godot Engine](https://docs.godotengine.org/)
+
+## Cómo Jugar
+
+1. Descarga el archivo RAR del juego desde el enlace proporcionado.
+2. Descomprime el archivo RAR en tu computadora.
+3. Ejecuta el archivo principal del juego.
+4. ¡Explora, sobrevive y descubre los secretos de "De la nada a la nada"!
+
+## Banda Sonora
+
+La banda sonora del juego está disponible en Bandcamp. Te recomendamos escuchar el álbum mientras juegas para una experiencia inmersiva completa.
 
 ## Licencia
 
