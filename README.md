@@ -1,6 +1,6 @@
 # De la nada a la nada
 
-![Logo del juego](url_del_logo.png)
+
 
 ## Descripción del Juego
 
